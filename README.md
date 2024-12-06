@@ -1,4 +1,4 @@
 # demo
 learning github
 <br>
-srivani (pandari)
+Pandari Srivani
